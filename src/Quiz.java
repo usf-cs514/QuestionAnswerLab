@@ -32,9 +32,6 @@ public class Quiz {
                 System.out.println("incorrect");
                 cqa.displayAnswer();
             }
-
-
-
         }
 
 }
